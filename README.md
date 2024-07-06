@@ -22,6 +22,8 @@ app/Dockerfile:
 
 nginx/nginx.conf:
 
+![nginxnginx conf](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/6887eef2-06bd-4e62-821e-1e51ed522fee)
+
 nginx/Dockerfile:
 
 docker-compose.yml:
