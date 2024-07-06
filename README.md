@@ -30,6 +30,8 @@ nginx/Dockerfile:
 
 docker-compose.yml:
 
+![docker-compose yml](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/deb78f18-553c-4917-b84b-160a3966b6a0)
+
 prometheus.yml:
 
 terraform/main.tf:
