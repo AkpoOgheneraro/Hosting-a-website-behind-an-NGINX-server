@@ -38,7 +38,11 @@ prometheus.yml:
 
 terraform/main.tf:
 
+![terraformmain tf](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/c1d43697-dcca-40fe-990c-88db2094aa37)
+
 .github/workflows/deploy.yml:
+
+
 
 
 
