@@ -26,6 +26,8 @@ nginx/nginx.conf:
 
 nginx/Dockerfile:
 
+![nginxDockerfile](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/7e0ceda9-5204-4f18-bdef-a72a1f58da0a)
+
 docker-compose.yml:
 
 prometheus.yml:
