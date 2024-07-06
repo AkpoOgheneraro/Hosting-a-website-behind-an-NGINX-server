@@ -42,7 +42,59 @@ terraform/main.tf:
 
 .github/workflows/deploy.yml:
 
-![githubworkflowsdeploy yml](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/1ba54460-8749-48a0-8af5-d7fb3fbd9be1)
+![githubworkflowsdeploy yml](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/1ba54460-8749-48a0-8af5-d7fb3fbd9be1) 
+
+# DevOps Project: Hosting a Website Behind an NGINX Server
+
+## Overview
+
+This project involves containerizing a web application, deploying it to a virtual machine (VM) using a CI/CD pipeline, and setting up monitoring with Prometheus and Grafana. The domain name used is `raro.solutions`.
+
+## Technology Stack
+
+### Required Technologies
+- **Docker**: Containerization platform ([Documentation](https://docs.docker.com/))
+- **Docker Compose**: Multi-container orchestration for Docker ([Documentation](https://docs.docker.com/compose/))
+- **Terraform**: Infrastructure provisioning tool ([Documentation](https://www.terraform.io/))
+- **GitHub Actions**: CI/CD tool ([Documentation](https://docs.github.com/en/actions))
+- **Prometheus**: Monitoring tool ([Documentation](https://prometheus.io/))
+- **Grafana**: Monitoring tool ([Documentation](https://grafana.com/))
+
+## Project Setup
+
+1. **Create a Local Development Directory**:
+    ```bash
+    mkdir my-devops-project
+    cd my-devops-project
+    ```
+
+2. **Initialize a Git Repository**:
+    ```bash
+    git init
+    ```
+
+## Part 1: Containerization
+
+### 1.1 Application Container
+
+#### 1.1.1 Create a Sample Node.js Application
+
+**Directory Structure**:
+
+
+**app/package.json**:
+```json
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
+
+
 
 
 
