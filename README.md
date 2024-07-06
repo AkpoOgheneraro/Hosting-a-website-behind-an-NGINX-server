@@ -34,6 +34,8 @@ docker-compose.yml:
 
 prometheus.yml:
 
+![prometheus yml](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/b08f7613-bd88-47ad-b7eb-e4d0ad0eda60)
+
 terraform/main.tf:
 
 .github/workflows/deploy.yml:
