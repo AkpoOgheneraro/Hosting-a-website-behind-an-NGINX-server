@@ -16,6 +16,8 @@ app/server.js:
 
 app/Dockerfile:
 
+![appDockerfile](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/325df46b-645e-46b8-b009-7c0524ab207c)
+
 nginx/nginx.conf:
 
 nginx/Dockerfile:
