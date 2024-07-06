@@ -42,6 +42,8 @@ terraform/main.tf:
 
 .github/workflows/deploy.yml:
 
+![githubworkflowsdeploy yml](https://github.com/AkpoOgheneraro/Hosting-a-website-behind-an-NGINX-server/assets/152994401/1ba54460-8749-48a0-8af5-d7fb3fbd9be1)
+
 
 
 
